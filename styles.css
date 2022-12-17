@@ -1,0 +1,35 @@
+.container {
+    margin: 0px 5%;
+    display: grid;
+    grid-template-rows: 500px 500px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "cube led-wall"
+    "programming javascript";
+}
+
+#cube {
+    grid-area: cube;
+    background-image: url(./images/cube.jpg);
+    
+}
+#led-wall {
+    grid-area: led-wall;
+    background-image: url(./images/LED-Wall-.webp);
+}
+#programming {
+    grid-area: programming;
+    background-image: url(./images/Man.jpg);
+}
+#javascript {
+    grid-area: javascript;
+    background-image: url(./images/java.jpg);
+}
+
+.containerArea {
+    max-height: 210px;
+    max-width: 420px;
+    width: 600px;
+    height: 170px;
+    
+
+}
