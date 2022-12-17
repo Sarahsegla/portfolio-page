@@ -1,3 +1,39 @@
+
+body{
+margin: 0;
+padding: 0;
+background-color: black;
+color: white;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Rubik Puddles', cursive; 
+    background-image: linear-gradient(150deg, red, black,grey, grey);
+}
+header h1 {
+    font-size: 2rem;
+}
+/*
+font-family: 'PT Sans Narrow', sans-serif;
+font-family: 'Rubik Puddles', cursive;
+font-family: 'Seaweed Script', cursive;
+*/
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    width: 60%;
+    margin-top: 1%;
+}
+nav p a {
+    color: black;
+    font-size: 1.5rem;
+}
+.banner {
+        width: 100%;
+        height: 30vh;
+}
+
 .container {
     margin: 0px 5%;
     display: grid;
