@@ -70,6 +70,14 @@ main {
     font-family: 'Seaweed Script', cursive;
     font-size: 1.5rem;
 }
+.title1 {
+    font-family: 'Seaweed Script', cursive;
+    font-size: 1.5rem;
+    padding: 5%;
+    margin-bottom: 5%;
+    background-color: red;
+    opacity: 0.5;
+}
 .container {
     margin: 0px 5%;
     display: grid;
