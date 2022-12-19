@@ -10,3 +10,10 @@ Images have titles.
 First image bigger than the rest.
 When image is clicked the user is taken to another page/deploy application.
 When the page can be used on any screen size.
+
+
+## Screenshot
+[Untitled_ Dec 19, 2022 11_14 PM.webm](https://user-images.githubusercontent.com/117079336/208546423-b029c3d5-0627-4581-8d2f-21ae76ec02b2.webm)
+
+## Links
+Link me deploy application - 
