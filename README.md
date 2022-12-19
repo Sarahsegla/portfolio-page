@@ -16,4 +16,4 @@ When the page can be used on any screen size.
 [Untitled_ Dec 19, 2022 11_14 PM.webm](https://user-images.githubusercontent.com/117079336/208546423-b029c3d5-0627-4581-8d2f-21ae76ec02b2.webm)
 
 ## Links
-Link me deploy application - https://sarahsegla.github.io/portfolio-page/
+Link to deploy application - https://sarahsegla.github.io/portfolio-page/
